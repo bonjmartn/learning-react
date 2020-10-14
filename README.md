@@ -1,4 +1,6 @@
-The build version of this app is live at https://www.bonniejmartin.com/learningreact/
+This project was created by following the tutorial "React Crash Course 2020" at https://www.youtube.com/watch?v=mACw_G-okPE
+
+The build version is live at https://www.bonniejmartin.com/learningreact/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
