@@ -1,3 +1,5 @@
+The build version of this app is live at https://www.bonniejmartin.com/learningreact/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
