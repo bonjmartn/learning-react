@@ -32,7 +32,7 @@ function Home() {
 
     return (
         <div>
-            <h1 className="font-bold text-2xl">Best Sellers by Charlene</h1>
+            <h1 className="font-bold text-2xl">Best Sellers by Charlene Nina</h1>
             {content}
         </div>
     )
